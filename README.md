@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Binaramalee Jayakody</h1>
 <h3 align="center">An undergraduate student at National School of Business Management</h3>
 
-- 🌱 I’m currently following **Software Engineering degree program**
+- 🌱 I’m currently following ** a Software Engineering degree program**
 
 - 📫 How to reach me **binaramaleejayakody@gmail.com**
 
